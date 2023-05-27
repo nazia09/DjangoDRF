@@ -1,0 +1,6 @@
+ Create a Django project using virtual environment
+ Create app 
+ db connectivity with Postgres
+ implement jwt authentication  
+ create signup api
+ create sign in api 
